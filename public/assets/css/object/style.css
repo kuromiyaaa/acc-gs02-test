@@ -68,7 +68,7 @@
     margin-bottom: 28.8px;
     margin-bottom: 1.8rem;
     margin-top: 27.2px;
-    margin-top: 1.7rem;
+    margin-top: 3.7rem;
 }
 
 .cb-cta-moji {
@@ -119,7 +119,7 @@
     display: flex;
     width: 233vh;
     position: absolute;
-    top: 69%;
+    top: 67%;
     left: 50%;
 }
 
@@ -207,7 +207,7 @@
 .cb-prob {
     background-color: #ffffff;
     padding: 40px 0 52.8px;
-    padding: 2rem 0 2.5rem;
+    padding: 1rem 0 2.5rem;
 }
 
 .cb-prob__inner {
@@ -2279,7 +2279,7 @@
         width: 36%;
         display: flex;
         position: absolute;
-        top: 71%;
+        top: 66%;
         left: 30.6%;
         transform: translate(-50%, -50%);
         align-items: center;
@@ -2377,7 +2377,7 @@
     }
 
     .cb-prob__pic {
-        width: 70%;
+        width: 90%;
         margin: auto;
         margin-bottom: 1rem;
     }
