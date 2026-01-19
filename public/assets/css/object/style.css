@@ -1175,22 +1175,22 @@
     border-bottom: 1px solid #cceaf4;
     border-bottom: 0.0625rem solid #cceaf4;
     padding: 6.4px;
-    padding: 0.4rem;
+    padding: 0.5rem 0;
     font-weight: 600;
 }
 
-.cb-det__item-body dl:nth-of-type(4) {
+.cb-det__item-body dl:nth-of-type(3) {
     border-bottom: none;
     margin-bottom: 11.2px;
     margin-bottom: 0.7rem;
 }
 
 .cb-det__item-body dl dt {
-    width: 40%;
+    width: 30%;
 }
 
 .cb-det__item-body dl dd {
-    width: 40%;
+    width: 50%;
 }
 
 .cb-det__body-box {
@@ -1221,7 +1221,7 @@
 .cb-det__item:nth-of-type(2) .cb-det__item-head {
     background-color: #008ca0;
     padding: 20.8px 0;
-    padding: 1.2rem 0;
+    padding: 1.3rem;
 }
 
 .cb-det__txt2 {
@@ -3279,7 +3279,7 @@
 
     .cb-hani__item:nth-of-type(2) {
         padding-bottom: 89.6px;
-        padding-bottom: 5.6rem;
+        padding-bottom: 6.2rem;
     }
 
     .cb-hani__item:nth-of-type(2) .cb-hani__item-head {
@@ -3322,8 +3322,8 @@
 
     .cb-det__item-head {
         font-size: 24px;
-        font-size: 1.5rem;
-        padding: 1.2rem;
+        font-size: 1.3rem;
+        padding: 1.3rem;
     }
 
     .cb-det__item-head b {
@@ -3350,6 +3350,7 @@
     }
 
     .cb-det__body-box {
+    height: 140px;
     }
 
     .cb-det__body-box h3 {
@@ -3390,7 +3391,7 @@
 ============================ */
     .cb-riyo {
         padding: 64px 0 32px;
-        padding: 4.3rem 0 2rem;
+        padding: 3.5rem 0 2rem;
     }
 
     .cb-riyo__inner {
