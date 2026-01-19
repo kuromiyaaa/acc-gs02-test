@@ -1034,9 +1034,16 @@
 
 .cb-hani__box-head-icon {
     width: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .cb-hani__box-head-icon img {
+    width: 100%;
+    max-width: 40px;
+    height: auto;
+    object-fit: contain;
 }
 
 .cb-hani__box-head-wrap h4 {
@@ -3254,9 +3261,17 @@
     }
 
     .cb-hani__box-head-icon {
+        width: 10%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
 
     .cb-hani__box-head-icon img {
+        width: 100%;
+        max-width: 50px;
+        height: auto;
+        object-fit: contain;
     }
 
     .cb-hani__box-head-wrap h4 {
