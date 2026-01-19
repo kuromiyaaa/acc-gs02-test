@@ -1334,8 +1334,8 @@
     font-size: 16px;
     font-size: 1rem;
     text-align: center;
-    color: #00668b;
-    font-weight: 500;
+    color: #00161e;
+    font-weight: 400;
     margin-bottom: 20.8px;
     margin-bottom: 1.3rem;
 }
@@ -3455,7 +3455,7 @@
         font-size: 19px;
         font-size: 1.1875rem;
         margin-bottom: 64px;
-        margin-bottom: 4rem;
+        margin-bottom: 3rem;
     }
 
     .cb-riyo__sp {
@@ -3701,7 +3701,7 @@
         font-size: 35px;
         font-size: 2.1875rem;
         margin-bottom: 40px;
-        margin-bottom: 2rem;
+        margin-bottom: 1.3rem;
     }
 
     .cb-flow__cont {
