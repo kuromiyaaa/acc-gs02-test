@@ -2899,7 +2899,7 @@
     }
 
     .cb-sol__item h4 {
-        font-size: min(29px,2.1vw);
+        font-size: min(29px,2vw);
         letter-spacing: 0.05em;
         margin-bottom: 0.5rem;
         margin-left: 0;
