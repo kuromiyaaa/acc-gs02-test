@@ -2740,7 +2740,7 @@
 
 .cb-prob:after {
     content: "";
-    background-image: url(../../../img/acc-gs03/sankaku3.png);
+    background-image: url(../../img/sankaku3.png);
     background-size: 100% 100%;
     position: absolute;
     height: 9%;
