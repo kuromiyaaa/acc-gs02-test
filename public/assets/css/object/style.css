@@ -323,6 +323,11 @@
 .cb-sol__kaiketu img {
 }
 
+.cb-sol__kaiketu a {
+    color: #00668b;
+    text-decoration: none;
+}
+
 /* cb-sol
 ============================ */
 .cb-sol {
@@ -929,6 +934,11 @@
     line-height: 1.8;
 }
 
+.cb-hani__inner h2 a {
+    color: #00668b;
+    text-decoration: none;
+}
+
 .cb-hani__cont {
 }
 
@@ -1163,6 +1173,11 @@
 .cb-det__inner h2 em {
     font-size: 1.6em;
     font-weight: 600;
+}
+
+.cb-det__inner h2 a {
+    color: #00668b;
+    text-decoration: none;
 }
 
 .cb-det__cont {
