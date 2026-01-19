@@ -1006,7 +1006,7 @@
 }
 
 .cb-hani__item-box {
-    border: 1.8px solid #3373cc;
+    border: 1.9px solid #008ca1;
     border-radius: 0.4rem;
     margin: 11.2px 16px 0px;
     margin: 0.7rem 1rem 0rem;
@@ -3175,68 +3175,11 @@
     .cb-mock__cta a img {
     }
 
-    /* cb-plan
-============================ */
-    /* .cb-plan {
-        padding-top: 4rem;
-    }
-
-    .cb-plan__inner {
-        max-width: 650px;
-    }
-
-    .cb-plan__inner h2 {
-        font-size: 27px;
-        font-size: 1.3875rem;
-        margin-bottom: 36.8px;
-        margin-bottom: 2.3rem;
-    }
-
-    .cb-plan__inner h2 em {
-    font-size: 1.8em;
-    }
-
-    .cb-plan__cont {
-    }
-
-    .cb-plan__item {
-    }
-
-    .cb-plan__item h3 {
-        font-size: 25px;
-        font-size: 1.4rem;
-    }
-
-    .cb-plan__item h3 em {
-    }
-
-    .cb-plan__item-e {
-        width: 55%;
-    }
-
-    .cb-plan__item-e img {
-    }
-
-    .cb-plan__item p {
-        font-size: 23px;
-        font-size: 1.4375rem;
-        margin-bottom: 16px;
-        margin-bottom: 1rem;
-    }
-
-    .cb-plan__item:nth-of-type(2) {
-    }
-
-    .cb-plan__item:nth-of-type(2).cb-plan__item h3 {
-    }
-
-    .cb-plan__item:nth-of-type(2).cb-plan__item p {
-    } */
 
     /* cb-hani
 ============================ */
     .cb-hani {
-    padding: 2.3rem 0 3rem;
+    padding: 2.5rem 0 3rem;
     }
 
     .cb-hani__inner {
@@ -3246,7 +3189,7 @@
     .cb-hani__inner h2 {
         font-size: 20px;
         font-size: 1.25rem;
-        margin-bottom: 2.5rem;
+        margin-bottom: 2rem;
     }
 
     .cb-hani__inner h2 em {
@@ -3294,11 +3237,11 @@
         padding: 0.9rem 1.3rem;
         display: flex;
         flex-direction: column;
-        height: 240px;
+        height: 230px;
     }
 
     .cb-hani__box-head-wrap {
-        background-color: #3373cc;
+        background-color: #008ca1;
         padding: 12.8px;
         padding: 0.8rem;
         color: white;
@@ -3325,8 +3268,7 @@
 
     .cb-hani__ul-wrap {
         background-color: white;
-        padding: 12.8px;
-        padding: 1.6rem;
+        padding: 1.2rem 1.6rem;
         margin-left: -20.8px;
         margin-left: -1.3rem;
         margin-right: -20.8px;
