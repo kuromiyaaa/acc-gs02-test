@@ -1037,6 +1037,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    padding-left: 0.5rem;
 }
 
 .cb-hani__box-head-icon img {
