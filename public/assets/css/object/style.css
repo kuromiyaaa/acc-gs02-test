@@ -11,7 +11,7 @@
 .cb-header__cta-wrap {
   background-color: #FE6A2B;
   padding: 20.8px 11.2px;
-  padding: 1.3rem 0.7rem;
+  padding: 1.3rem 1.5rem;
 }
 .cb-header__cta-wrap:nth-last-of-type(2) {
   background-color: #1D395C;
@@ -1843,7 +1843,7 @@
     font-size: 15px;
     font-size: 0.9375rem;
     line-height: 1.4;
-    color: #00668b;
+    color: #003142;
     margin-top: 9.6px;
     margin-top: 0.6rem;
 }
