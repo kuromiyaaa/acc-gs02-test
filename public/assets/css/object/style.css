@@ -2871,8 +2871,10 @@
     .cb-sol__item {
         padding: 3rem 3rem 1.3rem 1.7rem;
         background-color: white;
-        height: initial;
+        height: 100%;
         position: relative;
+        display: flex;
+        flex-direction: column;
     }
 
     .kadai-txt-2 {
@@ -2901,6 +2903,7 @@
         display: flex;
         align-items: flex-start;
         gap: 1.5rem;
+        flex: 1;
     }
 
     .cb-sol__item-e {
@@ -2939,12 +2942,15 @@
         grid-template-rows: repeat(2, 1fr);
         gap: 1.5rem;
         margin: auto;
+        align-items: stretch;
     }
 
     .slide {
         width: 100%;
         min-width: auto;
         margin: 0;
+        height: 100%;
+        display: flex;
     }
 
     .slide img {
