@@ -3256,8 +3256,9 @@
 
     .cb-hani__cont {
         display: flex;
+        flex-wrap: wrap;
         justify-content: space-between;
-        align-items: flex-start;
+        align-items: stretch;
     }
 
     .cb-hani__item {
@@ -3287,10 +3288,14 @@
     }
 
     .cb-hani__item-box {
-        margin: 11.2px 32px 0px;
-        margin: 0.7rem 2rem 0rem;
+        width: 45%;
+        margin: 11.2px 0px;
+        margin: 0.7rem 0rem;
         padding: 14.4px 20.8px;
         padding: 0.9rem 1.3rem;
+        display: flex;
+        flex-direction: column;
+        height: 100%;
     }
 
     .cb-hani__box-head-wrap {
@@ -3330,6 +3335,7 @@
         margin-right: -1.3rem;
         margin-bottom: -14.4px;
         margin-bottom: -0.9rem;
+        flex: 1;
     }
 
     .cb-hani__ul-wrap ul {
