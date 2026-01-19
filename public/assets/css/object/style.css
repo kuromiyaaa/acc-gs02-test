@@ -2924,13 +2924,17 @@
     }
 
     .slides {
-        /* max-width: 750px;
-    /* max-width: 46.875rem; */
-        display: block;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(2, 1fr);
+        gap: 1.5rem;
         margin: auto;
     }
 
     .slide {
+        width: 100%;
+        min-width: auto;
+        margin: 0;
     }
 
     .slide img {
