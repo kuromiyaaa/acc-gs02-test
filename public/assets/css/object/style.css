@@ -250,7 +250,7 @@
 
 .cb-prob:after {
         content: "";
-        background-image: url(../../../img/acc-gs03/sankaku3.png);
+        background-image: url(../../img/sankaku3.png);
         background-size: 100% 100%;
         position: absolute;
         height: 9%;
@@ -282,11 +282,11 @@
         background-repeat: no-repeat;
         background-position: center;
         position: absolute;
-        right: -20%;
+        right: -32%;
         top: 50%;
         transform: translateY(-50%);
-        width: 100px;
-        height: 100px;
+        width: 130px;
+        height: 130px;
     }
 }
 
@@ -303,6 +303,7 @@
 }
 
 .cb-prob__e {
+    display: block;
     width: 63%;
     margin: auto;
     margin-bottom: 16px;
@@ -2755,22 +2756,23 @@
     .cb-prob__inner h2 {
         width: 45%;
         margin-bottom: 24px;
-        margin-bottom: 1.5rem;
+        margin-bottom: 2.5rem;
     }
 
     .cb-prob__inner h2 img {
     }
 
     .cb-prob__pic {
-        width: 93%;
+        width: 97%;
         margin: auto;
-        margin-bottom: 1rem;
+        margin-bottom: 3rem;
     }
 
     .cb-prob__pic img {
     }
 
     .cb-prob__e {
+        display: none;
         width: 28%;
         margin-bottom: 32px;
         margin-bottom: 2rem;
