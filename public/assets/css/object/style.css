@@ -2763,7 +2763,7 @@
     }
 
     .cb-sol__kaiketu {
-        width: 38%;
+        width: 27%;
     }
 
     .cb-sol__kaiketu img {
@@ -2793,7 +2793,7 @@
     }
 
     .cb-sol__inner {
-        max-width: 1250px;
+        max-width: 1300px;
     }
 
     .cb-sol__inner h2 {
@@ -2869,10 +2869,16 @@
     }
 
     .cb-sol__item {
-        padding: 3rem 3rem 1.3rem 1.7rem;
+        padding: 3rem 1rem;
         background-color: white;
-        height: initial;
+        height: 200px;
         position: relative;
+        margin-bottom: 0;
+    }
+
+    .slide:nth-child(1) .cb-sol__item,
+    .slide:nth-child(2) .cb-sol__item {
+        padding: 1rem;
     }
 
     .kadai-txt-2 {
@@ -2880,7 +2886,7 @@
         margin-top: 0.5rem;
         position: absolute;
         top: -9%;
-        left: 0;
+        left: 3%;
         background-color: #03668a;
         padding: 0.3rem 1.2rem;
         border-radius: 5rem;
@@ -2888,9 +2894,9 @@
     }
 
     .cb-sol__item h4 {
-        font-size: 1.5rem;
+        font-size: min(29px,2.1vw);
         letter-spacing: 0.05em;
-        margin-bottom: 1rem;
+        margin-bottom: 0.5rem;
         margin-left: 0;
         padding-left: 0;
         text-align: left;
@@ -2899,12 +2905,12 @@
 
     .cb-sol__e-wrap {
         display: flex;
-        align-items: flex-start;
-        gap: 1.5rem;
+        align-items: center;
+        gap: 1rem;
     }
 
     .cb-sol__item-e {
-        width: 40%;
+        width: 35%;
         margin-right: 0px;
         margin-right: 0rem;
     }
@@ -2919,8 +2925,7 @@
     }
 
     .cb-sol__e-wrap p {
-        font-size: 19px;
-        font-size: 1.1875rem;
+        font-size: min(17px,2.1vw);
         width: 100%;
         margin-left: 0;
         margin-top: 0;
