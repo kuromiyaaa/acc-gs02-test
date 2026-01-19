@@ -1418,7 +1418,7 @@
 ============================ */
 
 .cb-koe {
-    background-color: #f2feff;
+    background-color: #ffffff;
     padding: 36.8px 0 22.4px;
     padding: 2.3rem 0 1.4rem;
 }
@@ -2508,7 +2508,7 @@
   }
 
   .cb-header__logo {
-    width: 17%;
+    width: 40%;
     max-width: 200px;
   }
 
@@ -3491,6 +3491,7 @@
 ============================ */
     
 .cb-koe {
+    background-color: #ffffff;
     padding: 64px 0 64px;
     padding: 4rem 0 4rem;
 }
