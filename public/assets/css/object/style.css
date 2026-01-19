@@ -907,7 +907,6 @@
 .cb-hani__inner h2 em {
     font-size: 1.7em;
     font-weight: 600;
-    letter-spacing: 0.15em;
     line-height: 1.8;
 }
 
@@ -3189,7 +3188,7 @@
     }
 
     .cb-hani__inner h2 em {
-        font-size: 2em;
+        font-size: 1.7em;
     }
 
     .cb-hani__cont {
