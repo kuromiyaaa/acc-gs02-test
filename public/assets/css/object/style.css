@@ -2730,11 +2730,11 @@
 ============================ */
 .cb-prob {
     padding: 64px 0;
-    padding: 7rem 0 1.2rem;
+    padding: 7.5rem 0 2rem;
     margin-top: 0;
     background-color: #f1f1f1;
     position: relative;
-    margin-bottom: 3rem;
+    margin-bottom: 4rem;
     z-index: -1;
 }
 
@@ -2743,7 +2743,7 @@
     background-image: url(../../img/sankaku3.png);
     background-size: 100% 100%;
     position: absolute;
-    height: 9%;
+    height: 13%;
     width: 2%;
     bottom: 0%;
     left: 48%;
@@ -2782,7 +2782,7 @@
     }
 
     .cb-sol__kaiketu {
-        width: 27%;
+        width: 29%;
     }
 
     .cb-sol__kaiketu img {
