@@ -2897,7 +2897,7 @@
 
     .slide:nth-child(1) .cb-sol__item,
     .slide:nth-child(2) .cb-sol__item {
-        padding: 3rem 1rem 1rem;
+        padding: 3.5rem 1rem 0.5rem;
     }
 
     .slide:nth-child(1) .cb-sol__item h4,
