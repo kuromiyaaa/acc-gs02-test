@@ -3187,7 +3187,7 @@
     }
 
     .cb-hani__inner {
-        max-width: 950px;
+        max-width: 900px;
     }
 
     .cb-hani__inner h2 {
@@ -3234,11 +3234,11 @@
     }
 
     .cb-hani__item-box {
-        width: 48%;
+        width: 44%;
         margin: 0.7rem 0rem;
         display: flex;
         flex-direction: column;
-        height: 260px;
+        height: 230px;
     }
 
     .cb-hani__box-head-wrap {
@@ -3266,7 +3266,7 @@
 
     .cb-hani__ul-wrap {
         background-color: white;
-        padding: 1.2rem 3.4rem;
+        padding: 1.2rem 1.4rem;
         flex: 1;
     }
 
