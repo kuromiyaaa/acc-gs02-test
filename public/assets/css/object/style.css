@@ -4208,6 +4208,10 @@
   
 .cb-thanks__cta-txt {font-size: 1.3rem;}
 
+.cb-thanks__mtg .cb-thanks__cta {
+    width: 80%;
+}
+
 }
 
 @media only screen and (min-width: 1200px) {
