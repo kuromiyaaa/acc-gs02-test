@@ -553,12 +553,13 @@
 .slides {
     display: flex;
     transition: transform 0.5s ease;
+    flex-direction: column;
 }
 
 .slide {
     min-width: calc(100% - 10px);
     /* 5pxのマージン分を引く */
-    margin: 0 5px;
+    /* margin: 0 5px; */
     /* 左右に5pxのマージンを設定 */
     height: 100%;
     display: flex;
