@@ -29,6 +29,16 @@
   <link rel="stylesheet" href="/assets/css/object/component.css">
   <link rel="stylesheet" href="/assets/css/object/style.css">
 
+  <style>
+    /* SP表示時はpc-onlyクラスのリンクを無効化 */
+    @media screen and (max-width: 767px) {
+      a.pc-only {
+        pointer-events: none;
+        cursor: default;
+      }
+    }
+  </style>
+
 </head>
 
 <body>
