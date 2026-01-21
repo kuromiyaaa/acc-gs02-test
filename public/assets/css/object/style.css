@@ -1273,8 +1273,19 @@
     border: 0.125rem solid #008ca0;
 }
 
+.cb-det__cont > a:nth-of-type(2) .cb-det__item {
+    border: 2px solid #008ca0;
+    border: 0.125rem solid #008ca0;
+}
+
 .cb-det__item:nth-of-type(2) .cb-det__item-head {
-    background-color: #4CAF50;
+    background-color: #008ca0;
+    padding: 20.8px 0;
+    padding: 1.3rem;
+}
+
+.cb-det__cont > a:nth-of-type(2) .cb-det__item-head {
+    background-color: #008ca0;
     padding: 20.8px 0;
     padding: 1.3rem;
 }
@@ -3411,7 +3422,18 @@
     .cb-det__item:nth-of-type(2) {
     }
 
+    .cb-det__cont > a:nth-of-type(2) .cb-det__item {
+        border: 2px solid #008ca0;
+        border: 0.125rem solid #008ca0;
+    }
+
     .cb-det__item:nth-of-type(2) .cb-det__item-head {
+    }
+
+    .cb-det__cont > a:nth-of-type(2) .cb-det__item-head {
+        background-color: #008ca0;
+        padding: 20.8px 0;
+        padding: 1.3rem;
     }
 
     .cb-det__txt2 {
